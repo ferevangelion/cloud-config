@@ -10,3 +10,7 @@ spring:
     port: 5672
     username: guest
     password: guest
+url:
+  gr: 
+    context: https://super-qa.walmart.com.mx
+    login: /api/rest/model/atg/userprofiling/ProfileActor/login
